@@ -13,8 +13,8 @@ _Objectives_
 
 ## Setup/Installation Requirements
 
-* _Check out the GitHub Pages: https://megankaluza.github.io/greensock-banner
-* _Clone this repository https://github.com/megankaluza/greensock-banner.git
+* _Check out the GitHub Pages: https://megankaluza.github.io/greensock-banner_
+* _Clone this repository https://github.com/megankaluza/greensock-banner.git_
 * _Open in browser of your choice_
 
 ## Known Bugs
