@@ -9,7 +9,7 @@
 
 _Objectives_
 
-* _Showcase animations using GSAP Animations (JavaScript Framework)._
+* _Showcase animations using GSAP (GreenSock Animation Platform)._
 
 ## Setup/Installation Requirements
 
